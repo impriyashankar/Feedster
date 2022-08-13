@@ -1,5 +1,5 @@
 
-# Feedster - Feed posts from users 
+# Feedster - Feed posts from users  
 > An app that implements the functionality of limiting user post to 140 characters or less.  
 > Live demo [_here_](https://impriyashankar.github.io/Feedster/).
 
